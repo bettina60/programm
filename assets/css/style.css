@@ -1,16 +1,89 @@
+/* Basis */
 body {
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
-  background: #fafafa;
-  color: #222;
+  font-family: "Inter", system-ui, sans-serif;
+  background: #f5f5f7;
+  color: #333;
   margin: 0;
+  line-height: 1.6;
 }
 
 main {
-  max-width: 700px;
-  margin: auto;
+  max-width: 800px;
+  margin: 2rem auto;
   padding: 1.5rem;
+  background: #fff;
+  border-radius: 16px;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.05);
 }
 
-h1, h2 {
+/* Überschriften */
+h1 {
+  font-size: 2.2rem;
+  margin-bottom: 1rem;
+  text-align: center;
+  color: #ff5a5f;
+}
+
+h2 {
+  font-size: 1.5rem;
   margin-top: 2rem;
+  margin-bottom: 0.5rem;
+  border-left: 4px solid #ff5a5f;
+  padding-left: 0.5rem;
+}
+
+/* Timeline */
+.timeline {
+  list-style: none;
+  padding: 0;
+  margin: 2rem 0;
+  position: relative;
+}
+
+.timeline::before {
+  content: '';
+  position: absolute;
+  left: 20px;
+  top: 0;
+  bottom: 0;
+  width: 4px;
+  background: #ff5a5f;
+  border-radius: 2px;
+}
+
+.timeline li {
+  position: relative;
+  margin: 1rem 0 1rem 50px;
+  padding: 0.5rem 1rem;
+  background: #fef0f0;
+  border-radius: 8px;
+}
+
+.timeline li::before {
+  content: '';
+  position: absolute;
+  left: -32px;
+  top: 10px;
+  width: 16px;
+  height: 16px;
+  background: #ff5a5f;
+  border-radius: 50%;
+}
+
+/* Karten & Tally */
+iframe {
+  width: 100%;
+  border: none;
+  border-radius: 12px;
+  margin-top: 1rem;
+}
+
+/* Links */
+a {
+  color: #ff5a5f;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
 }
