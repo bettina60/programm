@@ -6,7 +6,8 @@ title: Bettinas Geburtstag
 
 # 🎂 Bettinas Geburtstag
 
-<button  class="button" data-tally-open="Y5aaxz" data-tally-width="440" data-tally-align-left="1" data-tally-hide-title="1" data-tally-emoji-animation="tada" data-tally-auto-close="1000" data-tally-form-events-forwarding="1">Anmeldung</button>
+<button data-tally-open="vGYybX" data-tally-width="440" data-tally-align-left="1" data-tally-hide-title="1" data-tally-emoji-animation="wave" data-tally-auto-close="1000">Anmeldung</button>
+
 
 ## Donnerstag, 25. Juni 2026
 
@@ -104,7 +105,7 @@ title: Bettinas Geburtstag
     </tr>
     <tr>
       <td><strong>13:30</strong></td>
-      <td><strong>Gruppe D</strong>: Führung <a href="https://acquerello.it/tenuta">Tenuta La Colombara</a><br>
+      <td><strong>Gruppe D</strong>: Führung <a href="https://acquerello.it/tenuta">Tenuta La Colombara</a> (Sprache: <strong>Deutsch</strong>)<br>
       <a href="https://www.google.com/maps/place/Tenuta+Colombara/@45.2571253,8.1680207,17z/data=!3m1!4b1!4m6!3m5!1s0x4787cdff2a37258b:0xa78a3306bba3d178!8m2!3d45.2571216!4d8.1705956!16s%2Fg%2F11d_78b_8w?entry=ttu">📍 Tenuta La Colombara</a></td>
     </tr>
     <tr>
