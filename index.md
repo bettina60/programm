@@ -15,10 +15,10 @@ Osteria Carlo & Tina, Ameno  oder Ristorante Tre Tigli, Armeno
 
 ## Freitag, 26. Juni 2026
 
-**11:30** – Schifffahrt Orta San Giulio - Lagna  
-[📍 Piazza Mario Motta, Orta San Giulio  ](https://www.google.com/maps/place/TRAGHETTI+ORTA-ISOLA+MOLO+2/@45.7978792,8.4047692,18z/data=!4m15!1m8!3m7!1s0x47860cf64f01426d:0x50cc5394706b5b46!2sPiazza+Mario+Motta,+28016+Orta+San+Giulio+NO,+Italien!3b1!8m2!3d45.7978774!4d8.4061264!16s%2Fg%2F11b8y6xwtm!3m5!1s0x47860d0f8c0c0ab3:0x2dbe9505085a6b88!8m2!3d45.797744!4d8.4058168!16s%2Fg%2F11rst1dc1s?entry=ttu&g_ep=EgoyMDI2MDEyOC4wIKXMDSoKLDEwMDc5MjA3M0gBUAM%3D)
+**11:30** – Schifffahrt Orta San Giulio – Lagna  
+[📍 Piazza Mario Motta, Orta San Giulio](https://www.google.com/maps/place/TRAGHETTI+ORTA-ISOLA+MOLO+2/@45.7978792,8.4047692,18z/data=!4m15!1m8!3m7!1s0x47860cf64f01426d:0x50cc5394706b5b46!2sPiazza+Mario+Motta,+28016+Orta+San+Giulio+NO,+Italien!3b1!8m2!3d45.7978774!4d8.4061264!16s%2Fg%2F11b8y6xwtm!3m5!1s0x47860d0f8c0c0ab3:0x2dbe9505085a6b88!8m2!3d45.797744!4d8.4058168!16s%2Fg%2F11rst1dc1s?entry=ttu&g_ep=EgoyMDI2MDEyOC4wIKXMDSoKLDEwMDc5MjA3M0gBUAM%3D)
 
-**12.00** - Spaziergang Schiffstation Lagna ins Ristorante Da Venanzio  
+**12.00** – Spaziergang Schiffstation Lagna ins Ristorante Da Venanzio  
 [📍 Lagna](https://www.google.com/maps/place/Pontile_di_Lagna/@45.7919746,8.3910957,16z/data=!4m6!3m5!1s0x47860d3c42252c15:0xe52ba6a07131716a!8m2!3d45.7856903!4d8.3919563!16s%2Fg%2F11j1f4sd9w?entry=ttu&g_ep=EgoyMDI2MDEyOC4wIKXMDSoKLDEwMDc5MjA3M0gBUAM%3D)
 
 **12:30** – Mittagessen im [Ristorante Da Venanzio](https://www.ristorantedavenanzio.it/), San Maurizio d'Opaglio, & Baden im See  
@@ -26,7 +26,7 @@ Osteria Carlo & Tina, Ameno  oder Ristorante Tre Tigli, Armeno
 
 **15.00** – Spaziergang zurück nach Lagna  
 
-**15.30** – Schifffahrt Lagna - Isola di San Giulio  
+**15.30** – Schifffahrt Lagna – Isola di San Giulio  
 
 **16.00** – Führung auf der Isola San Giulio (Sprache Englisch)  
 [📍 Isola San Giulio](https://www.google.com/maps/place/Isola+San+Giulio/@45.7960847,8.397289,17z/data=!3m1!4b1!4m6!3m5!1s0x47860c59c3ce10fd:0x24e8a6bce37b4609!8m2!3d45.7960816!4d8.399878!16zL20vMDl2NXN0?entry=ttu&g_ep=EgoyMDI2MDEyOC4wIKXMDSoKLDEwMDc5MjA3M0gBUAM%3D)  
@@ -37,13 +37,15 @@ Osteria Carlo & Tina, Ameno  oder Ristorante Tre Tigli, Armeno
 [📍 Ustaria Cà dal Rat](https://www.google.com/maps/place/L'Ustaria+C%C3%A0+dal+Rat/@45.785451,8.4204221,17z/data=!3m1!4b1!4m6!3m5!1s0x47860ce06c44321b:0x9aa723f4afc043df!8m2!3d45.7854473!4d8.422997!16s%2Fg%2F1tk6tsl_?entry=ttu&g_ep=EgoyMDI2MDEyOC4wIKXMDSoKLDEwMDc5MjA3M0gBUAM%3D)
 
 ## Samstag, 27. Juni 2026
-
-**10:45** – Führung [Tenuta La Colombara](https://acquerello.it/tenuta) auf **Italienisch** (Achtung: ca. 1 1/2 Stunde Anreisezeit von Orta San Giulio mit dem Auto)  
+**9.15** – **Italienischsprachige Gruppe**: Abfahrt mit dem Auto ab Parkplatz Miasino  
+[📍 Parkplatz Miasino](https://www.google.it/maps/place/Parchetto+bambini+comunale/@45.8013292,8.4292961,19z/data=!4m15!1m8!3m7!1s0x47860cc026575327:0xcbbe64879cc19db4!2s28010+Miasino,+Novara,+Italien!3b1!8m2!3d45.8027082!4d8.4299675!16zL20vMGc4dGsy!3m5!1s0x47860d0061a628e3:0xf752db235f534921!8m2!3d45.8014188!4d8.4305645!16s%2Fg%2F11vx5b8p7v?entry=ttu&g_ep=EgoyMDI2MDEyOC4wIKXMDSoKLDEwMDc5MjA3M0gBUAM%3D)  
+**10:45** – Führung [Tenuta La Colombara](https://acquerello.it/tenuta) (Sprache **Italienisch** – Eine alternative Führung auf Deutsch ist um 13:30.)  
 [📍 Tenuta La Colombara](https://www.google.com/maps/place/Tenuta+Colombara/@45.2571253,8.1680207,17z/data=!3m1!4b1!4m6!3m5!1s0x4787cdff2a37258b:0xa78a3306bba3d178!8m2!3d45.2571216!4d8.1705956!16s%2Fg%2F11d_78b_8w?entry=ttu&g_ep=EgoyMDI2MDEyOC4wIKXMDSoKLDEwMDc5MjA3M0gBUAM%3D)  
+**10.45** – **Deutschsprachige Gruppe**: Abfahrt mit dem Auto ab Parkplatz Miasino  
+[📍 Parkplatz Miasino](https://www.google.it/maps/place/Parchetto+bambini+comunale/@45.8013292,8.4292961,19z/data=!4m15!1m8!3m7!1s0x47860cc026575327:0xcbbe64879cc19db4!2s28010+Miasino,+Novara,+Italien!3b1!8m2!3d45.8027082!4d8.4299675!16zL20vMGc4dGsy!3m5!1s0x47860d0061a628e3:0xf752db235f534921!8m2!3d45.8014188!4d8.4305645!16s%2Fg%2F11vx5b8p7v?entry=ttu&g_ep=EgoyMDI2MDEyOC4wIKXMDSoKLDEwMDc5MjA3M0gBUAM%3D)  
+**12.15** – **Gemeinsames** Mittagessen [Antica Ostaria La Colombara](https://www.tripadvisor.it/Hotel_Review-g2056734-d12451387-Reviews-Antica_Osteria_La_Colombara-Livorno_Ferraris_Province_of_Vercelli_Piedmont.html)  
 
-**12.15** – Mittagessen [Antica Ostaria La Colombara](https://www.tripadvisor.it/Hotel_Review-g2056734-d12451387-Reviews-Antica_Osteria_La_Colombara-Livorno_Ferraris_Province_of_Vercelli_Piedmont.html)  
-
-**13.30** – Führung [Tenuta La Colombara](https://acquerello.it/tenuta) auf **Deutsch**  
+**13.30** – Führung [Tenuta La Colombara](https://acquerello.it/tenuta) (Sprache **Deutsch** – Eine alternative Führung auf Italienisch ist um 10:45.)  
 
 **19.30** – Geburtstagsessen [Taverna Antico Agnello]( https://www.ristoranteanticoagnello.com/), Miasino   
 [📍 Taverna Antico Agnello](https://www.google.com/maps/place/Taverna+Antico+Agnello/@45.8023375,8.4271173,17z/data=!3m1!4b1!4m6!3m5!1s0x47860cc013938225:0x7bbf37867b002945!8m2!3d45.8023338!4d8.4296922!16s%2Fg%2F1tg_vz71?entry=ttu&g_ep=EgoyMDI2MDEyOC4wIKXMDSoKLDEwMDc5MjA3M0gBUAM%3D)
