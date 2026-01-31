@@ -20,7 +20,6 @@ main {
 h1 {
   font-size: 2.2rem;
   margin-bottom: 1rem;
-  text-align: center;
   color: #ff5a5f;
 }
 
@@ -28,8 +27,6 @@ h2 {
   font-size: 1.5rem;
   margin-top: 2rem;
   margin-bottom: 0.5rem;
-  border-left: 4px solid #ff5a5f;
-  padding-left: 0.5rem;
 }
 
 h3 {
