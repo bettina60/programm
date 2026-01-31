@@ -6,7 +6,7 @@ title: Bettinas Geburtstag
 
 # 🎂 Bettinas Geburtstag
 
-<button data-tally-open="vGYybX" data-tally-width="440" data-tally-align-left="1" data-tally-hide-title="1" data-tally-emoji-animation="wave" data-tally-auto-close="1000">Anmeldung</button>
+<button data-tally-open="Y5aaxz" data-tally-width="440" data-tally-align-left="1" data-tally-hide-title="1" data-tally-emoji-animation="wave" data-tally-auto-close="0">Click me</button>
 
 
 ## Donnerstag, 25. Juni 2026
