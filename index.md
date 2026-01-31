@@ -46,7 +46,7 @@ Osteria Carlo & Tina, Ameno  oder Ristorante Tre Tigli, Armeno
 **13.30** – Führung [Tenuta La Colombara](https://acquerello.it/tenuta) auf **Deutsch**  
 
 **19.30** – Geburtstagsessen [Taverna Antico Agnello]( https://www.ristoranteanticoagnello.com/), Miasino   
-
+[📍 Taverna Antico Agnello](https://www.google.com/maps/place/Taverna+Antico+Agnello/@45.8023375,8.4271173,17z/data=!3m1!4b1!4m6!3m5!1s0x47860cc013938225:0x7bbf37867b002945!8m2!3d45.8023338!4d8.4296922!16s%2Fg%2F1tg_vz71?entry=ttu&g_ep=EgoyMDI2MDEyOC4wIKXMDSoKLDEwMDc5MjA3M0gBUAM%3D)
 
 ## Sonntag, 28. Juni 2026
 
