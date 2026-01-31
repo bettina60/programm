@@ -54,10 +54,7 @@ Osteria Carlo & Tina, Ameno  oder Ristorante Tre Tigli, Armeno
 
 ---
 
-## 📝 Anmeldung
+## Anmeldung
 
-<iframe
-    data-tally-src="https://tally.so/r/DEINCODE"
-    class="iframe"
-    style="width:100%; height:600px; border:none; border-radius:10px; margin-top:1rem;">
-</iframe>
+<iframe data-tally-src="https://tally.so/embed/Y5aaxz?alignLeft=1&hideTitle=1&transparentBackground=1&dynamicHeight=1" loading="lazy" width="100%" height="843" frameborder="0" marginheight="0" marginwidth="0" title="Bettinas Geburtstag"></iframe>
+<script>var d=document,w="https://tally.so/widgets/embed.js",v=function(){"undefined"!=typeof Tally?Tally.loadEmbeds():d.querySelectorAll("iframe[data-tally-src]:not([src])").forEach((function(e){e.src=e.dataset.tallySrc}))};if("undefined"!=typeof Tally)v();else if(d.querySelector('script[src="'+w+'"]')==null){var s=d.createElement("script");s.src=w,s.onload=v,s.onerror=v,d.body.appendChild(s);}</script>
