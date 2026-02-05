@@ -6,7 +6,7 @@ title: Bettinas Geburtstag
 
 # 🎂 Bettinas Geburtstag
 <!-- class="button" data-tally-width="440" data-tally-align-left="1" data-tally-hide-title="1" data-tally-auto-close="0"-->
-<button class="button" data-tally-open="Y5aaxz" data-tally-width="440" data-tally-align-left="1" data-tally-hide-title="1" data-tally-emoji-animation="wave" data-tally-auto-close="0">Anmeldung</button>
+<button data-tally-open="Y5aaxz" data-tally-width="440" data-tally-align-left="1" data-tally-hide-title="1" data-tally-emoji-animation="wave" data-tally-auto-close="1000" data-tally-form-events-forwarding="1">Click me</button>
 
 
 ## Donnerstag, 25. Juni 2026
@@ -22,7 +22,7 @@ title: Bettinas Geburtstag
     <tr>
       <td><strong>19:30</strong></td>
       <td>Nachtessen<br>
-      Osteria Carlo & Tina, Ameno oder Ristorante Tre Tigli, Armeno</td>
+      <!--Osteria Carlo & Tina, Ameno oder Ristorante Tre Tigli, Armeno--></td>
     </tr>
   </tbody>
 </table>
@@ -72,7 +72,7 @@ title: Bettinas Geburtstag
     <tr>
       <td><strong>19:30</strong></td>
       <td>Abendessen in der <a href="https://www.lustaria.it">Ustaria Cà dal Rat</a>, Orta San Giulio<br>
-      <a href="https://www.google.com/maps/place/L'Ustaria+C%C3%A0+dal+Rat/@45.785451,8.4204221,17z/data=!3m1!4b1!4m6!3m5!1s0x47860ce06c44321b:0x9aa723f4afc043df!8m2!3d45.7854473!4d8.422997!16s%2Fg%2F1tk6tsl_?entry=ttu">📍 Ustaria Cà dal Rat</a></td>
+      <!--<a href="https://www.google.com/maps/place/L'Ustaria+C%C3%A0+dal+Rat/@45.785451,8.4204221,17z/data=!3m1!4b1!4m6!3m5!1s0x47860ce06c44321b:0x9aa723f4afc043df!8m2!3d45.7854473!4d8.422997!16s%2Fg%2F1tk6tsl_?entry=ttu">📍 Ustaria Cà dal Rat</a>--></td>
     </tr>
   </tbody>
 </table>
@@ -129,7 +129,7 @@ title: Bettinas Geburtstag
     <tr>
       <td><strong>11:00</strong></td>
       <td>Brunch bei <a href="https://www.tripadvisor.it/Attraction_Review-g1050458-d14763042-Reviews-Il_Bonta-Armeno_Province_of_Novara_Piedmont.html">Il Bontà</a>, Armeno<br>
-      <a href="https://www.google.com/maps/place/Il+Bont%C3%A0/@45.8152289,8.4405924,17z/data=!3m2!4b1!5s0x47860ca5e809a5ad:0x33359b0e7960cef3!4m6!3m5!1s0x47860d39f259631f:0xf21e620a11260923!8m2!3d45.8152252!4d8.4431673!16s%2Fg%2F11f91lpy53?entry=ttu">📍 Il Bontà</a></td>
+      <!--<a href="https://www.google.com/maps/place/Il+Bont%C3%A0/@45.8152289,8.4405924,17z/data=!3m2!4b1!5s0x47860ca5e809a5ad:0x33359b0e7960cef3!4m6!3m5!1s0x47860d39f259631f:0xf21e620a11260923!8m2!3d45.8152252!4d8.4431673!16s%2Fg%2F11f91lpy53?entry=ttu">📍 Il Bontà</a>--></td>
     </tr>
   </tbody>
 </table>
