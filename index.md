@@ -20,8 +20,10 @@ title: Bettinas Geburtstag
   <tbody>
     <tr>
       <td><strong>19:30</strong></td>
-      <td>Nachtessen<br>
-      <!--Osteria Carlo & Tina, Ameno oder Ristorante Tre Tigli, Armeno--></td>
+      <td>Nachtessen im <br>
+      <a href="https://www.lagenzianellahotel.it">Hotel Ristorante La Genzianella</a>,  Miasino<br />
+      <a href="https://www.google.com/maps/place/La+Genzianella/@45.8048259,8.4366132,16.71z/data=!4m9!3m8!1s0x47860cb92b5bc8ff:0x1d0e929a4bb39ab8!5m2!4m1!1i2!8m2!3d45.80665!4d8.4383088!16s%2Fg%2F1v3lnts8?entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D">📍 La Genzianella</a>
+      </td>
     </tr>
   </tbody>
 </table>
@@ -70,8 +72,9 @@ title: Bettinas Geburtstag
     </tr>
     <tr>
       <td><strong>19:30</strong></td>
-      <td>Abendessen in der <a href="https://www.lustaria.it">Ustaria Cà dal Rat</a>, Orta San Giulio<br>
-      <!--<a href="https://www.google.com/maps/place/L'Ustaria+C%C3%A0+dal+Rat/@45.785451,8.4204221,17z/data=!3m1!4b1!4m6!3m5!1s0x47860ce06c44321b:0x9aa723f4afc043df!8m2!3d45.7854473!4d8.422997!16s%2Fg%2F1tk6tsl_?entry=ttu">📍 Ustaria Cà dal Rat</a>--></td>
+      <td>Abendessen im <a href="https://www.ristorantemonteoro.it">Ristorante MonteOro</a>, Ameno<br>
+      <a href="https://www.google.com/maps/search/MonteOro/@45.7968025,8.4387483,17z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D">📍 MonteOro</a>
+      </td>
     </tr>
   </tbody>
 </table>
@@ -100,7 +103,9 @@ title: Bettinas Geburtstag
     </tr>
     <tr>
       <td><strong>12:15</strong></td>
-      <td>Gemeinsames Mittagessen <a href="https://www.tripadvisor.it/Hotel_Review-g2056734-d12451387-Reviews-Antica_Osteria_La_Colombara-Livorno_Ferraris_Province_of_Vercelli_Piedmont.html">Antica Ostaria La Colombara</a></td>
+      <td>Gemeinsames Mittagessen <a href="https://www.balinrist.it">Da Balin</a>, Livorno Ferraris <br>
+      <a href="https://www.google.com/maps/place/Da+Balin/@45.2724694,8.1199354,13z/data=!4m23!1m16!4m15!1m6!1m2!1s0x4787d2fe3a2d046b:0xdd56f996df911956!2sDa+Balin,+Frazione+Castell'Apertole,+10,+13046+Livorno+Ferraris+VC,+Italien!2m2!1d8.1779495!2d45.2436575!1m6!1m2!1s0x47860cb92b5bc8ff:0x1d0e929a4bb39ab8!2sLa+Genzianella,+Via+per+Armeno,+10,+28010+Miasino+NO,+Italien!2m2!1d8.4383088!2d45.80665!3e0!3m5!1s0x4787d2fe3a2d046b:0xdd56f996df911956!8m2!3d45.243643!4d8.177947!16s%2Fg%2F1v4prwnx?entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D">📍 Da Balin</a>
+      </td>
     </tr>
     <tr>
       <td><strong>13:30</strong></td>
