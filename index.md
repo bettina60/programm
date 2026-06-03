@@ -5,7 +5,7 @@ title: Bettinas Geburtstag
 
 # 🎂 Bettinas Geburtstag
 <!-- class="button" data-tally-width="440" data-tally-align-left="1" data-tally-hide-title="1" data-tally-auto-close="0"-->
-<button class="button" data-tally-open="Y5aaxz" data-tally-width="500" data-tally-align-left="1" data-tally-hide-title="1" data-tally-emoji-animation="wave" data-tally-auto-close="1000" data-tally-form-events-forwarding="1">Anmeldung</button>
+<!--<button class="button" data-tally-open="Y5aaxz" data-tally-width="500" data-tally-align-left="1" data-tally-hide-title="1" data-tally-emoji-animation="wave" data-tally-auto-close="1000" data-tally-form-events-forwarding="1">Anmeldung</button>-->
 
 
 ## Donnerstag, 25. Juni 2026
@@ -19,7 +19,7 @@ title: Bettinas Geburtstag
   </thead>
   <tbody>
     <tr>
-      <td><strong>19:30</strong></td>
+      <td><strong>20:00</strong></td>
       <td>Nachtessen im <br>
       <a href="https://www.lagenzianellahotel.it">Hotel Ristorante La Genzianella</a>,  Miasino<br />
       <a href="https://www.google.com/maps/place/La+Genzianella/@45.8048259,8.4366132,16.71z/data=!4m9!3m8!1s0x47860cb92b5bc8ff:0x1d0e929a4bb39ab8!5m2!4m1!1i2!8m2!3d45.80665!4d8.4383088!16s%2Fg%2F1v3lnts8?entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D">📍 La Genzianella</a>
@@ -67,7 +67,7 @@ title: Bettinas Geburtstag
       <a href="https://www.google.com/maps/place/Isola+San+Giulio/@45.7960847,8.397289,17z/data=!3m1!4b1!4m6!3m5!1s0x47860c59c3ce10fd:0x24e8a6bce37b4609!8m2!3d45.7960816!4d8.399878!16zL20vMDl2NXN0?entry=ttu">📍 Isola San Giulio</a></td>
     </tr>
     <tr>
-      <td><strong>17:00</strong></td>
+      <td><strong>16:45</strong></td>
       <td>Schifffahrt Isola di San Giulio – Orta San Giulio, Piazza Motta</td>
     </tr>
     <tr>
@@ -109,7 +109,7 @@ title: Bettinas Geburtstag
     </tr>
     <tr>
       <td><strong>13:30</strong></td>
-      <td><strong>Gruppe D</strong>: Führung <a href="https://acquerello.it/tenuta">Tenuta La Colombara</a> (Sprache: <strong>Deutsch</strong>)<br>
+      <td><strong>Gruppe D</strong>: Führung <a href="https://www.acquerello.it/eng/tenuta/">Tenuta La Colombara</a> (Sprache: <strong>Deutsch</strong>)<br>
       <a href="https://www.google.com/maps/place/Tenuta+Colombara/@45.2571253,8.1680207,17z/data=!3m1!4b1!4m6!3m5!1s0x4787cdff2a37258b:0xa78a3306bba3d178!8m2!3d45.2571216!4d8.1705956!16s%2Fg%2F11d_78b_8w?entry=ttu">📍 Tenuta La Colombara</a></td>
     </tr>
     <tr>
