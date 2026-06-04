@@ -96,7 +96,7 @@ title: Bettinas Geburtstag
     </tr>
     <tr>
       <td><strong>10:45</strong></td>
-      <td><strong>Gruppe I</strong>: Führung <a href="https://acquerello.it/tenuta">Tenuta La Colombara</a> (Sprache <strong>Italienisch</strong>)<br>
+      <td><strong>Gruppe I</strong>: Führung <a href="https://www.acquerello.it/eng/tenuta/">Tenuta La Colombara</a> (Sprache <strong>Italienisch</strong>)<br>
       <a href="https://www.google.com/maps/place/Tenuta+Colombara/@45.2571253,8.1680207,17z/data=!3m1!4b1!4m6!3m5!1s0x4787cdff2a37258b:0xa78a3306bba3d178!8m2!3d45.2571216!4d8.1705956!16s%2Fg%2F11d_78b_8w?entry=ttu">📍 Tenuta La Colombara</a><br>
       <strong>Gruppe D</strong>: Abfahrt mit dem Auto ab Parkplatz Miasino <br>
       <a href="https://www.google.it/maps/place/Parchetto+bambini+comunale/@45.8013292,8.4292961,19z/data=!4m15!1m8!3m7!1s0x47860cc026575327:0xcbbe64879cc19db4!2s28010+Miasino,+Novara,+Italien!3b1!8m2!3d45.8027082!4d8.4299675!16zL20vMGc4dGsy!3m5!1s0x47860d0061a628e3:0xf752db235f534921!8m2!3d45.8014188!4d8.4305645!16s%2Fg%2F11vx5b8p7v?entry=ttu">📍 Parkplatz Miasino</a></td>
